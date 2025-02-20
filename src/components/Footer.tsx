@@ -73,11 +73,7 @@ const Footer = () => {
     rel="noopener noreferrer"
     className="hover:scale-110 transition-transform duration-200 mt-2"
   >
-    <img
-      src="/src/assets/google.jpg" // ✅ Official Google "G" Logo
-      alt="Google"
-      className="w-13 h-12" // Adjust size if needed
-    />
+    <FaGoogle className="w-12 h-12 text-blue-500" />
   </a>
 </div>
 
