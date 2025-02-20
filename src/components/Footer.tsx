@@ -68,7 +68,7 @@ const Footer = () => {
 <div className="ml-12 flex flex-col items-center">
   <p className="text-lg font-semibold mb-4">Follow Us On</p>
   <a
-    href="https://linklinesolutions.com/"
+    href="https://www.google.com/search?q=linkline+solutions&sca_esv=8a5f3c529fc99551&sxsrf=AHTn8zqvbiilQ7maweFSvWAp6z0nFDEvXg%3A1740080781262&ei=jYa3Z6_ID9q3wN4PpZTQkA8&ved=0ahUKEwjvwuOGgtOLAxXaG9AFHSUKFPIQ4dUDCBI&uact=5&oq=linkline+solutions&gs_lp=Egxnd3Mtd2l6LXNlcnAiEmxpbmtsaW5lIHNvbHV0aW9uczIEEAAYRzIEEAAYR0jhbFDZB1jZB3ABeAOQAQCYAQCgAQCqAQC4AQPIAQD4AQGYAgOgAhnCAgoQABiwAxjWBBhHwgINEAAYsAMY1gQYRxjJA8ICDhAAGIAEGLADGJIDGIoFmAMA4gMFEgExIECIBgGQBgKSBwEzoAcA&sclient=gws-wiz-serp"
     target="_blank"
     rel="noopener noreferrer"
     className="hover:scale-110 transition-transform duration-200 mt-2"
