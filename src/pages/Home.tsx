@@ -8,7 +8,7 @@ const Home = () => {
       <section className="relative h-[600px]">
         <div className="absolute inset-0">
           <img
-            src="/src/assets/fronee.webp"
+            src="/assets/fronee.webp"
             alt="Security Background"
             className="w-full h-full object-cover"
           />

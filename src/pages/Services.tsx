@@ -25,7 +25,7 @@ const Services = () => {
       title: 'Maintenance',
       description: 'We provide regular maintenance and support to ensure our clients\' security systems operate at optimal levels.',
       icon: Clock,
-      image: '/src/assets/mainenance.jpg'
+      image: '/assets/mainenance.jpg'
     }
   ];
 

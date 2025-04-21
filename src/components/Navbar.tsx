@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Shield } from 'lucide-react';
-import logo from "/src/assets/final logo.jpeg"; // Import your logo image
+import logo from "/assets/final logo.jpeg"; // Import your logo image
 
 const Navbar = () => {
   const location = useLocation();
