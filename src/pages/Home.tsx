@@ -18,9 +18,6 @@ const Home = () => {
           <div className="text-white">
             <h1 className="text-5xl font-bold mb-4">Link-Line Solutions</h1>
             <p className="text-xl mb-8">Your Trusted Partner in Security Solutions</p>
-            <a href="/products" className="bg-[#6A88D0] text-white px-6 py-3 rounded-md hover:bg-[#6686CF]">
-            Explore more
-            </a>
           </div>
         </div>
       </section>
